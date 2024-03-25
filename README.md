@@ -1,18 +1,17 @@
 
 ![logo](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png)
 <h1 align="center">Hi 👋, I'm Jawad Qasim</h1>
-<h3 align="center">Flutter developer with a passion for solving challenging problems with Data Structures and Algorithms (DSA)</h3>
+<h3 align="center">MERN Stack developer developer with a passion for solving challenging problems with Data Structures and Algorithms (DSA)</h3>
 
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadqasim99&label=Profile%20views&color=0e75b6&style=flat" alt="jawadqasim99" /> </p>
 
-- 🌱 I’m currently learning **Flutter App**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **jawadqasim99@gmail.com**
 
-- ⚡ Fun fact **🚀 Did you know that building a smooth and responsive Flutter app is like optimizing a complex algorithm? Flutter developers, just like algorithm wizards, strive for efficiency and elegance in their code. While one deals with user interfaces and animations, the other conquers intricate problem-solving. Together, they create digital magic! ✨💻🧙‍♂️ #FlutterMagic #AlgorithmEnchanters**
-
+-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jawadqasim403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jawadqasim403" height="30" width="40" /></a>
