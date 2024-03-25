@@ -1,7 +1,7 @@
 
 ![logo](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png)
 <h1 align="center">Hi 👋, I'm Jawad Qasim</h1>
-<h3 align="center">MERN Stack developer developer with a passion for solving challenging problems with Data Structures and Algorithms (DSA)</h3>
+<h3 align="center">MERN Stack developer  with a passion for solving challenging problems with Data Structures and Algorithms (DSA)</h3>
 
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
